@@ -1,0 +1,30 @@
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    background-color: #99ffff;
+}
+
+h2 {
+    color: #ff6666;
+    font-family: cursive;
+}
+
+h3 {
+    color: #66b3ff;
+}
+
+.steps {
+    color: #7300e6;
+}
+
+#ingredients {
+    font-family: "Courier New";
+}
+
+ol {
+    font-family: Courier;
+    font-weight: bold;
+}
